@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Amedi-Imbira
-- 👀 I’m interested in the art and science of web development
-- 🌱 I’m currently working on Savannah Tales (An East African blogging platform)
+- 👀 Web Apps (Design + Engineering)
+- 🌱 Currently in the space of SEO tech and Medicine
 - 💞️ I’m looking to collaborate on anything web-based
 - 📫 How to reach me amedi.imbira@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am not funny
+- ⚡ Fun fact: Ain't nothing funny.
 
 <!---
 Amedi-Imbira/Amedi-Imbira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
