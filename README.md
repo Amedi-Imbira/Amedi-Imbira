@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Amedi-Imbira
-- 🌱 My mission in life is to make Kenya an AI-powered society
+- 👋 My name is Amedi
+- 🌱 My mission in life is to make Kenya an AI-powered nation
 
 <!---
 Amedi-Imbira/Amedi-Imbira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
